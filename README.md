@@ -7,7 +7,9 @@ JHSON   is  the     important  ,  interactive   WebService   of  all ,  used  wi
 What   is  JHSON?
 ----------------
 
-JHSON   means   JDollar  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j.
+JHSON   means   JDollar  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j  in J$  
+
+Technology.
 
 JHSON  is  used  as   a  Restful  webservice    with  JAVA,  JDollar, .Net,etc .
 
