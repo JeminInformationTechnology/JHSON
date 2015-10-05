@@ -1,0 +1,45 @@
+Program1:Question: To search    the  word  view1  in  the  given  JHSON string
+-------------------------------------------------------------------------------
+
+DBSearch1.j$
+------------
+
+<JDOLLAR>
+@JRemote
+
+<%
+public  class  DBSearch1 
+
+{
+
+public void  JHSON-Main( ) throws <EXE>
+
+{
+
+WDBA.DBSearch.call("Search","DBSearch1","view1");
+
+//  It  is   used to search    the  word  view1  in  the  given  JHSON string.
+}
+
+}
+
+
+
+%>
+</JDOLLAR>
+
+
+
+Webpage Output:
+--------------
+
+found  at position  3
+
+
+
+
+
+
+
+
+
