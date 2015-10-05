@@ -3,6 +3,7 @@
 
 JHSON   is  the     important  ,  interactive   WebService   of  all ,  used  with  WDBAJ$  Database  Server
 
+It   is  ranked  as  No:1  WebService  and  WSON is  ranked  as  2nd one.
 
 What   is  JHSON?
 ----------------
@@ -11,7 +12,7 @@ JHSON   means   JDollar  Html  Syntax   Object   Notation  which    is  invented
 
 Technology.
 
-JHSON  is  used  as   a  Restful  webservice    with  JAVA,  JDollar, .Net,etc .
+JHSON  is  used  as   a  Restful  webservice   with  JDollar.
 
 So  it  is  platform   independant  technology  and   interactive   technology   of  
 
