@@ -11,7 +11,7 @@ And  JSON  as  3rd one.
 What   is  JHSON?
 ----------------
 
-JHSON   means   JAS  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j  in J$  
+JHSON   means   JAS  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j  in JAS  
 
 Technology.
 
@@ -65,7 +65,7 @@ i)  It  is  used  to    establish   connection    with  WDBAJ$  Cloud   server..
 
 j)   Can't  be  understood  by   Hackers.
 
-k)  JHSON  Webservice   is  the    Combination of  J$  Technology  and  Webservice;
+k)  JHSON  Webservice   is  the    Combination of  JAS  Technology  and  Webservice;
 
 so  it  is   called   as  JHSON  Webservice.
 
