@@ -1,3 +1,4 @@
+
 # JHSON
 --------
 
@@ -10,11 +11,11 @@ And  JSON  as  3rd one.
 What   is  JHSON?
 ----------------
 
-JHSON   means   JDollar  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j  in J$  
+JHSON   means   JAS  Html  Syntax   Object   Notation  which    is  invented  by  wilmix   jemin  j  in J$  
 
 Technology.
 
-JHSON  is  used  as   a  Restful  webservice   with  JDollar.
+JHSON  is  used  as   a  Restful  webservice   with  JAS.
 
 So  it  is  platform   independant  technology  and   interactive   technology   of  
 
